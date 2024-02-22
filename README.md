@@ -8,8 +8,7 @@
 3 - Deve-se executar a classe TesteCrudJpa.java.
 
 4 - Verificar se as tabelas da aplicação foram criadas e populadas. 
-
-
+__________________________________________________________________________________________________________________________
 
 English: 
 # Example of Java application using JPA with EclipseLink connecting with 2 database, MySql and PostgreSql
