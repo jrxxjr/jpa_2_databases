@@ -1,4 +1,5 @@
-﻿Portuguese: Exemplo de aplicação Java usando JPA com EclipseLink se conectando com 2 banco de dados, MySql e PostgreSql
+﻿Portuguese: 
+# Exemplo de aplicação Java usando JPA com EclipseLink se conectando com 2 banco de dados, MySql e PostgreSql
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
 
@@ -9,7 +10,9 @@
 4 - Verificar se as tabelas da aplicação foram criadas e populadas. 
 
 
-English: Example of Java application using JPA with EclipseLink connecting with 2 database, MySql and PostgreSql
+
+English: 
+# Example of Java application using JPA with EclipseLink connecting with 2 database, MySql and PostgreSql
 
 1 - A standard Eclipse Maven project, just import a Maven project in Eclipse.
 
